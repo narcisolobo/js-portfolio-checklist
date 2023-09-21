@@ -2,6 +2,7 @@
 A checklist for job-seeking JavaScript developers. Borrowed from Vets Who Code.
 
 - [ ]  Use clean code: Write clean, well-organized code that is easy to read and maintain. Use comments and meaningful variable names to make your code more understandable to others.
+___
 - [ ]  Use version control: Use a version control system like Git to manage your code and collaborate with others. This will make it easier to track changes, collaborate with others, and roll back to previous versions if necessary.
 - [ ]  Create case studies: Showcase your projects by creating detailed case studies that describe the problem you were solving, your approach, and the results. This will demonstrate your problem-solving skills and give potential employers or clients a better understanding of your work.
 - [ ]  Add tracking: Implement Google Analytics or a similar tool to track visits, clicks, and user behavior on your portfolio website. This will help you understand your audience and make informed decisions about your content and design.
